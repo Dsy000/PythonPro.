@@ -1,0 +1,8 @@
+2023-07-27 07:46:43 - ERROR: Cron file is empty or invalid. Skipping backup.
+2023-07-27 07:50:32 - INFO: Backup taken successfully at '/home/dy/Documents/Mtpyscript_navaera/BackupBilder/backup/backup_monitoreme.txt_20230727_075032'.
+2023-07-27 07:51:04 - INFO: Backup taken successfully at '/home/dy/Documents/Mtpyscript_navaera/BackupBilder/backup/backup_monitoreme.txt_20230727_075104'.
+2023-07-27 07:51:28 - INFO: No change in the cron file. Skipping backup.
+2023-07-27 08:04:17 - INFO: No change in the cron file. Skipping backup.
+2023-07-27 08:04:58 - ERROR: Source directory is empty or does not exist. Skipping backup.
+2023-07-27 08:22:22 - INFO: No change in the cron file. Skipping backup.
+2023-07-27 08:22:39 - INFO: Backup taken successfully at '/home/dy/Documents/Mtpyscript_navaera/BackupBilder/backup/backup_monitoreme.txt_20230727_082239'. Hash:a684b71f4361a93db4d9fe10e4c97539
