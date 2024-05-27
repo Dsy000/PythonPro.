@@ -54,3 +54,11 @@ if __name__ == "__main__":
         tcp_traffic(args.target_ip, args.target_port, args.duration, args.message_size, args.rate_mbps)
     elif args.protocol == "udp":
         udp_traffic(args.target_ip, args.target_port, args.duration, args.message_size, args.rate_mbps)
+
+
+
+
+
+#note
+#python dtg.py tcp 192.168.1.10 5001 30 1024 100
+#This command will send TCP traffic to 192.168.1.10 on port 5001 for 30 seconds with a message size of 1024 bytes at a rate of 100 Mbps.
