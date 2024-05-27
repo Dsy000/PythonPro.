@@ -41,6 +41,9 @@ echo "Traffic generation completed."
 #note:
 #chmod +x traffic_generator.sh
 #./dtg.sh tcp 192.168.1.10 5001 30 100
+#This command will generate TCP traffic to 192.168.1.10 on port 5001 at a rate of 100 Mbps for 30 seconds.
+
+
 #sudo apt-get install iperf3   # For Debian/Ubuntu
 #sudo yum install iperf3       # For CentOS/RHEL
 #iperf3 -s
